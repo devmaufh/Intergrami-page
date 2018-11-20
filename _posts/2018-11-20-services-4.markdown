@@ -1,0 +1,8 @@
+---
+layout: default
+img: tractor.jpg
+category: Services
+title: Nuevo sistema de alquileres
+description: |
+---
+ Con intergrami podrás alquilar y poner en alquiler desde maquinaria hasta hectareas para cultivar tus propios productos.

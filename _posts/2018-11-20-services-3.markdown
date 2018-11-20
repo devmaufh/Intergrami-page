@@ -1,0 +1,8 @@
+---
+layout: default
+img: unicos-sector.jpg
+category: Services
+title: Unicos en el sector
+description: |
+---
+ Intergrami es la única plataforma en el país (o en el mundo 💅) en la que puedes ofertar productos agrícolas o agropecuarios desde la comodidad de tu hogar. Evita gastar en transporte para ofrecer tus productos, hazlo desde casa.

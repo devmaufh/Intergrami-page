@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: pagos-stripe.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Pagos seguros
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Con intergrami mantén la seguridad de que tu dinero estará seguro gracias a nuestros amigos de [Stripe](http://www.stripe.com/).
