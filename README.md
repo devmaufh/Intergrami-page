@@ -1,1 +1,2 @@
-static page
+#static page
+simple static page
